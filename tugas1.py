@@ -1,5 +1,5 @@
 x = 24
-y= 85
+y= 88
 hasil = x < y
 print(hasil)
 
